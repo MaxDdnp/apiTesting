@@ -11,20 +11,20 @@
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
 
-*.iml
+rest-assured/*.iml
 
 # User-specific stuff:
-.idea/workspace.xml
-.idea/tasks.xml
-.idea/dictionaries
-.idea/shelf
+rest-assured/.idea/workspace.xml
+rest-assured/.idea/tasks.xml
+rest-assured/.idea/dictionaries
+rest-assured/.idea/shelf
 
 # Sensitive or high-churn files:
-.idea/dataSources.ids
-.idea/dataSources.xml
-.idea/sqlDataSources.xml
-.idea/dynamic.xml
-.idea/uiDesigner.xml
+rest-assured/.idea/dataSources.ids
+rest-assured/.idea/dataSources.xml
+rest-assured/.idea/sqlDataSources.xml
+rest-assured/.idea/dynamic.xml
+rest-assured/.idea/uiDesigner.xml
 
 ## Plugin-specific files:
 
@@ -36,3 +36,4 @@ log/
 target/
 
 
+rest-assured/.idea/
